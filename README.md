@@ -1,13 +1,33 @@
 # Heitor Freitas Ferreira&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### console.log("<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">")
 
-<p>
-  <em>
-    I am a undergraduate from <a href="http://www.ufu.br/"> <b>Federal University of Uberlândia</b>, Uberlândia-MG</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>NodeJS/backend    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>Take a look at my <a href="https://heitorfreitasferreira.github.io/curriculo/" taget="_blank">curriculum</a>
-  </em>  
-</p>
+```javascript
+const heitor = {
+  code: [Javascript, C, C++, HTML, CSS],
+  tools: [ NodeJS],
+  batabases:{
+    NoSQL:[MongoDB],
+    SQL: [MySQL, SQLite3]
+  },
+  institutions:{
+    Graduation:{
+      acronym: UFU,
+      fullName: 'Universidade Federal de Uberlândia',
+      website:'http://www.ufu.br/',
+      course: 'Computer Science'
+    },
+    technicalCourse:{
+      acronym: IFTM,
+      fullName: 'Instituto Federal do Triângulo Mineiro',
+      website:'https://iftm.edu.br/uberlandia/',
+      course: 'Computer Specialist'
+    }
+  },
+  udemyCouses:['The Complete Node.js Developer Course (3rd Edition)','The Complete Web Development Course'],
+  lookingForJob: true
+}
+```
 
 
 
