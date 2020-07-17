@@ -1,16 +1,53 @@
-### Hi there 👋
+# Heitor Freitas Ferreira&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<!--
-**heitorfreitasferreira/heitorfreitasferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-Here are some ideas to get you started:
+<p>
+  <em>
+    I am a undergraduate from <a href="http://www.ufu.br/"> <b>Federal University of Uberlândia</b>, Uberlândia-MG</a>. <br>
+    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>NodeJS/backend    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>Take a look at my <a href="https://heitorfreitasferreira.github.io/curriculo/" taget="_blank">curriculum</a>
+  </em>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+![Heitor's github stats](https://github-readme-stats.vercel.app/api?username=heitorfreitasferreira&show_icons=true&hide_border=true)
+
+
+
+### Knowledges
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/heitorfreitasferreira/)](https://github.com/heitorfreitasferreira/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/heitorfreitasferreira)](https://github.com/heitorfreitasferreira)
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/heitorfreitasferreira)](https://github.com/heitorfreitasferreira)
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://https://github.com/heitorfreitasferreira)](https://github.com/heitorfreitasferreira)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/heitorfreitasferreira/)](https://github.com/heitorfreitasferreira)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/heitorfreitasferreira)](https://github.com/heitorfreitasferreira)
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/heitorfreitasferreira/)](https://github.com/heitorfreitasferreira/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/heitorfreitasferreira/)](https://github.com/heitorfreitasferreira/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/heitorfreitasferreira/)](https://github.com/heitorfreitasferreira/)
+
+[![Figma](http://img.shields.io/badge/-Figma-30333c?style=flat-square&logo=figma&logoColor=white&link=https://github.com/heitorfreitasferreira/)](https://github.com/heitorfreitasferreira/)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/heitorfreitasferreira/)](https://github.com/heitorfreitasferreira/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/heitorfreitasferreira/)](https://github.com/heitorfreitasferreira/)
+
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/heitorfreitasferreira/)](https://github.com/heitorfreitasferreira/)
+
+
+  <a href="https://www.linkedin.com/in/heitorfreitasferreira/?locale=en_US">
+    <img align="left" alt="Heitor Freitas Ferreira | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/heitorfreitasf">
+    <img align="left" alt="Heitor Freitas Ferreira | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/theheitor/">
+    <img align="left" alt="Heitor Freitas Ferreira | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:heitor.ff@hotmail.com">
+    <img align="left" alt="Heitor Freitas Ferreira | Hotmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
