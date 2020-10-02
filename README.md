@@ -25,7 +25,7 @@ const heitor = {
     }
   },
   udemyCouses:['The Complete Node.js Developer Course (3rd Edition)','The Complete Web Development Course'],
-  lookingForJob: true
+  lookingForJob: false
 }
 ```
 
